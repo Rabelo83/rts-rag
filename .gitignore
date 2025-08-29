@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Env/keys/models
+.env
+*.safetensors
+
+# Vector DB (can be rebuilt)
+db/
+
+# OS files
+.DS_Store
+Thumbs.db
